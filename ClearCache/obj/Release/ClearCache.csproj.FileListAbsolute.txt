@@ -1,0 +1,6 @@
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\bin\Release\ClearCache.exe.config
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\bin\Release\ClearCache.exe
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\bin\Release\ClearCache.pdb
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\obj\Release\ClearCache.csproj.CoreCompileInputs.cache
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\obj\Release\ClearCache.exe
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\obj\Release\ClearCache.pdb

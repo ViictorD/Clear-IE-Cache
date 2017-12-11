@@ -1,0 +1,14 @@
+c:\users\xlfi463\source\repos\ClearCache\ClearCache\bin\Debug\ClearCache.exe.config
+c:\users\xlfi463\source\repos\ClearCache\ClearCache\bin\Debug\ClearCache.exe
+c:\users\xlfi463\source\repos\ClearCache\ClearCache\bin\Debug\ClearCache.pdb
+c:\users\xlfi463\source\repos\ClearCache\ClearCache\obj\Debug\ClearCache.csprojResolveAssemblyReference.cache
+c:\users\xlfi463\source\repos\ClearCache\ClearCache\obj\Debug\ClearCache.csproj.CoreCompileInputs.cache
+c:\users\xlfi463\source\repos\ClearCache\ClearCache\obj\Debug\ClearCache.exe
+c:\users\xlfi463\source\repos\ClearCache\ClearCache\obj\Debug\ClearCache.pdb
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\bin\Debug\ClearCache.exe.config
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\bin\Debug\ClearCache.exe
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\bin\Debug\ClearCache.pdb
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\obj\Debug\ClearCache.csprojResolveAssemblyReference.cache
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\obj\Debug\ClearCache.csproj.CoreCompileInputs.cache
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\obj\Debug\ClearCache.exe
+C:\Users\xlfi463\source\repos\ClearCache\Clear-IE-Cache\ClearCache\obj\Debug\ClearCache.pdb
